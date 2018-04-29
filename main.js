@@ -29,3 +29,5 @@ function assert(message, actual, expected){
         throw new Error(message);
     }
 }
+
+console.log("DONE");
